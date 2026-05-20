@@ -1,0 +1,43 @@
+Assignment: Testiranje
+
+TC-01
+Input: 4+5
+Expected result: 9
+Actual result: 9
+Status: PASS
+
+TC-02
+Input: 10-5
+Expected result: 5
+Actual result: 5
+Status: PASS
+
+TC-03
+Input: 4*5
+Expected result: 20
+Actual result: 20
+Status: PASS
+
+TC-04
+Input: 20/5
+Expected result: 4
+Actual result: 4
+Status: PASS
+
+TC-05
+Input: 10+5*4+3
+Expected result: 33
+Actual result: 33
+Status: PASS
+
+TC-06
+Input: 5/0
+Expected result: Error message
+Actual result: Error/crash possible
+Status: FAIL
+
+TC-07
+Input: abc+5
+Expected result: Invalid input
+Actual result: Error/crash possible
+Status: FAIL
